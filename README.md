@@ -1,10 +1,10 @@
-# 'MLMOS' 
+# MLMOS   :smiley:
 ## Acord privind proprietatea dreptului de autor 
 Prin prezenta declar că sunt de acord ca Lucrarea de licență cu titlul „ **Let's go** ”,
 codul sursă al programelor şi celelalte conţinuturi (grafice, multimedia, date de test etc.)
-care însoţesc această lucrare să fie utilizate în cadrul [Facultăţii de Informatică] (https://www.info.uaic.ro/) .
-De asemenea, sunt de acord ca Facultatea de Informatică de la **Universitatea
-„Alexandru Ioan Cuza” Iași** să utilizeze, modifice, reproducă şi să distribuie în scopuri
+care însoţesc această lucrare să fie utilizate în cadrul *Facultăţii de Informatică* .
+De asemenea, sunt de acord ca Facultatea de Informatică de la *Universitatea
+„Alexandru Ioan Cuza” Iași* să utilizeze, modifice, reproducă şi să distribuie în scopuri
 necomerciale programele-calculator, format executabil şi sursă, realizate de mine în cadrul
 prezentei lucrări de licenţă.
 
