@@ -25,12 +25,11 @@ vehiculelor și sa adauge vehiculele lor în baza de date a server-ului **Let's 
 
 ## Prezentarea aplicatiei
 
-Aplicația este una iOS și va putea fi disponibilă din AppStore. 
-Una dintre cele mai importante funcționalități ale aplicației este aceea că utilizatorul
-să poată vedea vehiculele pe hartă în timp real. La prima lansarea a aplicației va fi afișat un
-tutorial în care îi sunt prezentate utlizatorului diferite funcționalități regăsite în aplicație, iar
-după cel îl termină	va fi redirecționat către ecranul principal. Tot aici va fi direcționat
-la fiecare lansare a aplicației dacă utilizatorul trecut prin tutorial.
+- Aplicația este una iOS și va putea fi disponibilă din AppStore. 
+- Una dintre cele mai importante funcționalități ale aplicației este aceea că utilizatorul
+să poată vedea vehiculele pe hartă în timp real. 
+- La prima lansarea a aplicației va fi afișat un tutorial în care îi sunt prezentate utlizatorului diferite funcționalități regăsite în aplicație, iar după cel îl termină	va fi redirecționat către ecranul principal. 
+    - Tot aici va fi direcționat la fiecare lansare a aplicației dacă utilizatorul trecut prin tutorial.
 
 
 
