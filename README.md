@@ -1,5 +1,5 @@
-# MLMOS
-## ACORD PRIVIND PROPRIETATEA DREPTULUI DE AUTOR
+# 'MLMOS' 
+## Acord privind proprietatea dreptului de autor 
 Prin prezenta declar că sunt de acord ca Lucrarea de licență cu titlul „ **Let's go** ”,
 codul sursă al programelor şi celelalte conţinuturi (grafice, multimedia, date de test etc.)
 care însoţesc această lucrare să fie utilizate în cadrul **Facultăţii de Informatică**.
@@ -25,24 +25,7 @@ vehiculelor și sa adauge vehiculele lor în baza de date a server-ului **Let's 
 
 ## Prezentarea aplicatiei
 
-Aplicația este una iOS și va putea fi disponibilă din AppStore. Versiunea minimă de iOS
-necesară pentru a rula UrbanLive este iOS 9.3 putând fi astfel instalată de aproximativ 97%
-din dispozitivele iOS la momentul scrierii acestei lucrări (mai exact, iOS 10 este prezent pe
-86%		din dispozitive, iar iOS 9 pe 11%).
-Tehnologiile folosite în implementarea aplicației iOS sunt:
-18
-• Xcode - Mediu de dezvoltare
-• iOS SDK 9.3
-• Objective-C
-• AVFoundation - pentru scanarea codurilor QR
-• AFNetworking - pentru comunicarea cu server-ul
-• Facebook iOS SDK – pentru autentificarea utilizatorilor
-• MapKit
-• CoreLocation
-• BraintreeSDK
-• SVProgressHUD
-• SWRevealViewController
-• SAMKeychain
+Aplicația este una iOS și va putea fi disponibilă din AppStore. 
 Una dintre cele mai importante funcționalități ale aplicației este aceea că utilizatorul
 să poată vedea vehiculele pe hartă în timp real. La prima lansarea a aplicației va fi afișat un
 tutorial în care îi sunt prezentate utlizatorului diferite funcționalități regăsite în aplicație, iar
