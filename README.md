@@ -35,7 +35,7 @@ să poată vedea vehiculele pe hartă în timp real.
 
 ## Concluzii
 
-> **Let's go** are potențialul de a elimina destule probleme des întâlnite atunci când
+- **Let's go** are potențialul de a elimina destule probleme des întâlnite atunci când
 călătorim cu mijloacele de transport în comun, doar prin descărcarea aplicației. În primul rând
 nu va mai exista motiv de a sta la coadă pentru a cumpăra bilete :ticket: sau de a găsi o tonetă
 deschisă și va dispărea și grija de a purta biletele fizice după noi.
@@ -43,6 +43,6 @@ Astfel folosind aplicația vom ști exact unde este autobuzul pe care îl aștep
 vreme sau dacă mai sunt vehicule pe traseu în cazul orelor târzii.
 Una dintre îmbunătățiri ar fi trasarea unor linii pe hartă pentru a evidenția traseul
 autobuzelor. 
-> O altă îmbunătățire ar fi afișarea mai multor informații la apăsarea unor elemente
+- O altă îmbunătățire ar fi afișarea mai multor informații la apăsarea unor elemente
 pe hartă. De exemplu, la interacționarea cu o stație pe hartă ar putea fi afișate mai
 multe informații cum ar fi: rute ce trec prin acea stație sau adresa stației.
